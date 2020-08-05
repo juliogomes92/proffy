@@ -29,9 +29,9 @@ function TeacherList() {
             <main>
                 <article className="teacher-item">
                     <header>
-                        <img src="https://www.procuramed.com/static/images/doctor-mas.006f9.svg" alt="Pandora-Box"/>
+                        <img src="https://cdn.digitalks.com.br/wp-content/uploads/2017/02/Armindo-Avatar-Roxo-2.png" alt="Avatar"/>
                         <div>
-                            <strong>Jean</strong>
+                            <strong>Cleber Melo</strong>
                             <span>Biologia</span>
                         </div>
                     </header>
@@ -43,7 +43,7 @@ function TeacherList() {
 
                     <footer>
                         <p>
-                            Preco/hora
+                            Preço/hora
                             <strong>R$ 80,00</strong>
                         </p>
                         <button type='button'>
