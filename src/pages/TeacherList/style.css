@@ -64,11 +64,28 @@
     align-items: center;
 }
 
-.teacher-item img {
+.teacher-item header img {
     width: 8rem;
     height: 8rem;
     border-radius: 50%;
 }
+
+.teacher-item header div {
+    margin-left: 2.4rem;
+}
+
+.teacher-item header div strong {
+    font: 700 2.4rem Archive;
+    display: block;
+    color: var(--color-text-title);
+}
+
+.teacher-item header div span {
+    font: 700 2.4rem Archive;
+    display: block;
+    color: var(--color-text-title);
+}
+
 
 @media (min-width: 700px) {
     #page-teacher-list {

@@ -31,8 +31,8 @@ function TeacherList() {
                     <header>
                         <img src="https://www.procuramed.com/static/images/doctor-mas.006f9.svg" alt="Pandora-Box"/>
                         <div>
-                            <strong>Pandora Box</strong>
-                            <span>Sexologia</span>
+                            <strong>Jean</strong>
+                            <span>Biologia</span>
                         </div>
                     </header>
                     <p>
